@@ -157,6 +157,7 @@ otherplace
   Hypixel
   Thrain Family Forest
   Praxis
+  Lambat
 
 player
   [funnyplayer] ^12
@@ -227,6 +228,7 @@ funnyplayer
   hkl
   Infra
   Jayms
+  Kaprediem
   Lodish
   LordOfMarzipan
   Lysika_Lantariel
@@ -301,6 +303,7 @@ funnynation
   Tvtopia
   Tierra de Conciencia
   Gabon
+  Lambat
 
 unfunnynation
   Air Bud Republic
